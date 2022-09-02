@@ -1,2 +1,2 @@
 # top-recipes
-First project.
+First The Odin Project project.
